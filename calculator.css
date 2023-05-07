@@ -1,0 +1,30 @@
+button {
+  font-family: Arial;
+  color: white;
+  border: none;
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.class1-ops{
+  background-color: rgb(51, 51, 51);
+  font-size: 26px;
+}
+
+.class2-ops{
+  background-color: rgb(254, 160, 10);
+  font-size: 26px;
+}
+
+.clear-button{
+  background-color: rgb(51, 51, 51);
+  font-size: 17px;
+}
+
+.calculation{
+  font-family: Arial;
+  font-size: 30px;
+}
